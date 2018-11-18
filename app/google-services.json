@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "511268617036",
+    "firebase_url": "https://examen2gonzalo.firebaseio.com",
+    "project_id": "examen2gonzalo",
+    "storage_bucket": "examen2gonzalo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511268617036:android:02cd1a5032fecd8e",
+        "android_client_info": {
+          "package_name": "com.example.gonzalo.retrofitgonzalo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511268617036-322jtsr4q1odgpdjgsljgk25vkbbovpr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gonzalo.retrofitgonzalo",
+            "certificate_hash": "d80c418e20acc4832e336d0db2c5ca41590a9cf4"
+          }
+        },
+        {
+          "client_id": "511268617036-t6bd2qsgrkv7s35nncsb8feo1sqi3sfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Z9ox6b9qQ2dFs2e4l_lKGU6eV-xwIyk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511268617036-t6bd2qsgrkv7s35nncsb8feo1sqi3sfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
